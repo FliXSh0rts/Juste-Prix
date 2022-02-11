@@ -1,1 +1,3 @@
 # Juste-Prix
+
+![](screenshot.png)
